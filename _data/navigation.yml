@@ -1,0 +1,7 @@
+# Links shown in the top bar, after the site title.
+# Everything currently lives on the front page (_pages/about.md).
+# To add a page later, e.g.:
+#   - title: "CV"
+#     url: /files/cv.pdf
+
+main: []
