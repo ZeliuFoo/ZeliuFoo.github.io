@@ -37,7 +37,7 @@ Preprints
 ======
 **[arXiv 2026]** **MUSEBENCH: A Benchmark for AI-Generated Music Detection and Artifact Analysis**  
 Yi Chen Liu\*, Syed Irfan Ali Meerza\*, **Jiawei Yu\***, Xi Guo, Samuel Bright, Jian Liu  
-[[Paper]](https://arxiv.org/abs/2610.20310)
+[[Paper]](https://arxiv.org/abs/2610.20310) [[Dataset]](https://huggingface.co/datasets/Anonymousv22222/MuseBench-part1)
 
 **[arXiv 2026]** **EMG-FM-Bench: A Comprehensive Benchmark for Foundation Model Transfer and Adaptation on Electromyography**  
 Tianhao Wu, **Jiawei Yu**, Xiangdong Hu, Xu Wu, Hongyu Wu, Sidharth Anupkrishnan, Amirmohammad Radmehr, Yi Chen Liu, Phuc Nguyen, Yi Wu, Jian Liu  
@@ -45,7 +45,7 @@ Tianhao Wu, **Jiawei Yu**, Xiangdong Hu, Xu Wu, Hongyu Wu, Sidharth Anupkrishnan
 
 **[arXiv 2026]** **TrueMuse: A Benchmark for Data Attribution in Text-to-Music Models**  
 **Jiawei Yu**, Jian Liu  
-[[Paper]](https://arxiv.org/abs/2610.00835) [[Code]](https://github.com/ZeliuFoo/TrueMuse)
+[[Paper]](https://arxiv.org/abs/2610.00835) [[Code]](https://github.com/ZeliuFoo/TrueMuse) [[Dataset]](https://huggingface.co/datasets/AnonymousAuthorsssss/TrueMuse)
 
 **[arXiv 2026]** **SeRV: Semantic-Aligned Residual Vector Quantization for American Sign Language Generation**  
 Hongyu Wu, Xu Wu, Tianhao Wu, **Jiawei Yu**, Phuc Nguyen, Jian Liu, Yi Wu  
