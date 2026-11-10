@@ -28,8 +28,15 @@ Publications
 **Jiawei Yu**, Syed Irfan Ali Meerza, Yi Wu, Amir Sadovnik, Jian Liu  
 [[Paper]](https://arxiv.org/abs/2610.23589)
 
+**[IEEE SPW 2026]** **Auditing Training Data in Generative Music Models via Black-Box Membership Inference**  
+Yi Chen Liu, **Jiawei Yu**, Kexin Cao, Syed Irfan Ali Meerza, Trishika Movva, Jian Liu  
+*2026 IEEE Security and Privacy Workshops (SPW)*, pp. 230-237  
+[[Paper]](https://arxiv.org/abs/2605.29202)
+
+Preprints
+======
 **[arXiv 2026]** **MUSEBENCH: A Benchmark for AI-Generated Music Detection and Artifact Analysis**  
-Yi Chen Liu, Syed Irfan Ali Meerza, **Jiawei Yu**, Xi Guo, Samuel Bright, Jian Liu  
+Yi Chen Liu\*, Syed Irfan Ali Meerza\*, **Jiawei Yu\***, Xi Guo, Samuel Bright, Jian Liu  
 [[Paper]](https://arxiv.org/abs/2610.20310)
 
 **[arXiv 2026]** **EMG-FM-Bench: A Comprehensive Benchmark for Foundation Model Transfer and Adaptation on Electromyography**  
@@ -44,10 +51,7 @@ Tianhao Wu, **Jiawei Yu**, Xiangdong Hu, Xu Wu, Hongyu Wu, Sidharth Anupkrishnan
 Hongyu Wu, Xu Wu, Tianhao Wu, **Jiawei Yu**, Phuc Nguyen, Jian Liu, Yi Wu  
 [[Paper]](https://arxiv.org/abs/2609.05742)
 
-**[IEEE SPW 2026]** **Auditing Training Data in Generative Music Models via Black-Box Membership Inference**  
-Yi Chen Liu, **Jiawei Yu**, Kexin Cao, Syed Irfan Ali Meerza, Trishika Movva, Jian Liu  
-*2026 IEEE Security and Privacy Workshops (SPW)*, pp. 230-237  
-[[Paper]](https://arxiv.org/abs/2605.29202)
+\* Equal contribution
 
 <!--
 Teaching
